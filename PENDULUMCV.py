@@ -74,4 +74,4 @@ def video_to_frames(path, folder):
     plt.title('Dependence of X coordinate on time')
     plt.grid(True, alpha=0.3)
     plt.show()
-video_to_frames("videos/pendulum/main_test_2.mp4", "frames_output")
+video_to_frames("videos/pendulum/main_test.mp4", "frames_output")

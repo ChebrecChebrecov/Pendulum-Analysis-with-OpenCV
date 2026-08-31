@@ -15,5 +15,15 @@ A program for the automated analysis of the motion of a mathematical pendulum us
 -  Converting pixel coordinates to centimeters
 -  Previewing damped oscillations
 
+## Calibration parameters
+- Coordinates system is based on the ball size, so ball_size should be changed for every different
+- For different objects user should use different binary_color_divergence coefficient for better object detecting.
+- If object is too small, user should change size boundaries in find_coordinates_of_the_ball function
+  
 ## Visualisation
-<img width="1536" height="850" alt="80" src="https://github.com/user-attachments/assets/726b9dbc-6bda-43ee-9121-344e86cb3058" />
+<img width="1536" height="850" alt="80image" src="https://github.com/user-attachments/assets/f21ca93d-4e7a-45ca-945b-aa9ea21b50e8"/>
+There is a notable detail on the image: the pendulum oscillates in several axes, so the "main" damped oscillation also oscillates.
+
+## Contact information
+
+Email: orovor9@gmail.com

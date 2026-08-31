@@ -1,4 +1,4 @@
-# Pendulum Analysis with OpenCV
+# Pendulum Tracking with OpenCV
 
 [![Python 3.7+](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-2-green.svg)](https://opencv.org/)
